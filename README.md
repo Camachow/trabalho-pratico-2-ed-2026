@@ -2,6 +2,12 @@
 
 Este projeto é um programa em C++ que lê uma lista de departamentos a partir de um arquivo texto e permite realizar pesquisas por palavra-chave ou pelo nome do departamento.
 
+## Nome dos integrantes do grupo
+
+- Rafael Camacho F. T de Oliveira
+- João Antônio Dutra Viola
+- Ana Drumond
+
 ## Objetivo
 
 O programa tem como objetivo associar departamentos a palavras-chave. A partir dos dados carregados do arquivo `arquivo.txt`, o usuário pode:
@@ -54,11 +60,7 @@ Os departamentos são armazenados em um `vector`, permitindo guardar várias lin
 
 ## Como compilar
 
-No terminal, acesse a pasta do projeto:
-
-```bash
-cd /home/camacho/Documents/UFMG/tp2-ed-2026
-```
+No terminal, acesse a pasta do projeto.
 
 Depois, compile o programa com `g++`:
 
